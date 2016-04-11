@@ -6,6 +6,7 @@
 
 body {
   overflow-x: hidden;
+  background-color: #2f2f2f;
 }
 p {
   font-size: 20px;
@@ -219,7 +220,7 @@ section.success a.active {
 .btn-outline {
   color: white;
   font-size: 20px;
-  border: solid 2px white;
+  border: solid 2px #18bc9c;
   background: transparent;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
@@ -230,7 +231,7 @@ section.success a.active {
 .btn-outline.active {
   color: #18bc9c;
   background: white;
-  border: solid 2px white;
+  border: solid 5px white;
 }
 .floating-label-form-group {
   position: relative;
